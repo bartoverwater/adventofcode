@@ -1,0 +1,30 @@
+ [
+    {
+      "Starting items": [79, 98],
+      "Operation": "old * 19",
+      "Test": 23,
+      "if_true": 2,
+      "if_false": 3
+    },
+    {
+      "Starting items": [54, 65, 75, 74],
+      "Operation": "old + 6",
+      "Test": 19,
+      "if_true": 2,
+      "if_false": 0
+    },
+    {
+      "Starting items": [79, 60, 97],
+      "Operation": "old * old",
+      "Test": 13,
+      "if_true": 1,
+      "if_false": 3
+    },
+    {
+      "Starting items": [74],
+      "Operation": "old + 3",
+      "Test": 17,
+      "if_true": 0,
+      "if_false": 1
+    }
+]
